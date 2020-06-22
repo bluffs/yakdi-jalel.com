@@ -1,0 +1,9 @@
+.RightContent {
+    background: url("../../images/intro.jpg");
+    flex: 1;
+}
+
+.Dev{
+    padding: 25%;
+    width: 50%;
+}

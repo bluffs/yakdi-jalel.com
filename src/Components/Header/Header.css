@@ -1,5 +1,28 @@
 .Header {
-    background-color: red;
-    height: 50px;
-    width: 100%;
+    background-color: #353535;
+    color: white;
+    height: 70px;
+    display: flex;
+}
+
+.Left {
+    flex: 0 0 50%;
+}
+
+.Right {
+    margin-top: 25px;
+    display: flex;
+    flex: 1;
+}
+
+.One {
+    flex: 0 0 33%;
+}
+
+.Two {
+    flex: 0 0 33%;
+}
+
+.Three {
+    flex: 1;
 }

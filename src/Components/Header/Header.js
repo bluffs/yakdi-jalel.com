@@ -1,11 +1,24 @@
 import React from 'react';
 
-import classes from './Header.css';
+import './Header.css';
 
 const header = () => {
     return (
-        <div className={classes.Header}>
-            This is the header
+        <div className="Header">
+            <div className="Left">
+                LOGO
+            </div>
+            <div className="Right">
+                <div className="One">
+                    One
+                </div>
+                <div className="Two">
+                    Two
+                </div>
+                <div className="Three">
+                    Three
+                </div>
+            </div>
         </div>
     );
 }
