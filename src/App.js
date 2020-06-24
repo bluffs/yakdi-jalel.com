@@ -2,16 +2,15 @@ import React from 'react';
 
 import Header from './Components/Header/Header';
 import './App.css';
-import Wrapper from './Components/Containers/Wrapper/Wrapper';
+import Wrapper from './Containers/Wrapper/Wrapper';
+import Projects from './Containers/Projects/Projects';
 
 const app = () => {
   return (
     <div className="App">
       <Header />
       <Wrapper />
-        <div>
-          This is the App
-        </div>
+      <Projects />
     </div>
   );
 }

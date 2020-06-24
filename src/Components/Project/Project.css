@@ -1,0 +1,25 @@
+.Project {
+    display: flex;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+.Left {
+    height: 300px;
+    flex: 0 0 50%;
+}
+
+.Right {
+    display: block;
+    flex: 1;
+    text-align: center;
+}
+
+.Title {
+    font-size: 40px;
+}
+
+.Desc {
+    font-size: 20px;
+}

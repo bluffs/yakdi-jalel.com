@@ -1,8 +1,8 @@
 import React from 'react';
 
 import './Wrapper.css';
-import LeftContent from '../../LeftContent/LeftContent';
-import RightContent from '../../RightContent/RightContent';
+import LeftContent from '../../Components/LeftContent/LeftContent';
+import RightContent from '../../Components/RightContent/RightContent';
 
 const wrapper = () => {
     return (

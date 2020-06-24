@@ -17,6 +17,8 @@ const leftContent = () => {
                 Je suis un
                 <br />
                 <span className="Name" >Développeur web fullstack </span>
+                <br />
+                Spécialisé en ReactJS et NodeJS
             </p>
             </Animated>
         </div>
