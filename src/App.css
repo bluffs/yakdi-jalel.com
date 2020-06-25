@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.Polygontop {
+  height: 100px;
+  background-color: #716060;
+  margin-bottom: -1px;
+  margin-top: -90px;
+  clip-path: polygon(100% 0%, 100% 100%, 00% 100%);
+}
+
+.Polygonbot {
+  height: 100px;
+  background-color: white;
+  margin-top: -100px;
+  clip-path: polygon(100% 0%, 100% 100%, 00% 100%);
+}

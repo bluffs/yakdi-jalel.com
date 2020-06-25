@@ -10,7 +10,9 @@ const app = () => {
     <div className="App">
       <Header />
       <Wrapper />
+      <div className="Polygontop" ></div>
       <Projects />
+      <div className="Polygonbot" ></div>
     </div>
   );
 }
