@@ -11,6 +11,11 @@
     padding-top: 20px;
 }
 
+.Logo {
+    position: relative;
+    top: -88px;
+}
+
 .Right {
     margin-top: 25px;
     display: flex;
