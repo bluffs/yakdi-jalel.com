@@ -17,7 +17,18 @@
 }
 
 .ImageProject {
-    width: 400px;
+    position: relative;
+    width: 350px;
+    height: 260px;
+    top: 60px;
+    left: -100px;
+}
+
+.Circle {
+    position: relative;
+    top: -370px;
+    left: -100px;
+    animation: rotate 20s linear infinite;
 }
 
 .Title {
@@ -26,4 +37,10 @@
 
 .Desc {
     font-size: 20px;
+}
+
+@keyframes rotate {
+    0% {transform: rotate(0);}
+    50% {transform: rotate(180deg);}
+    100% {transform: rotate(360deg);}
 }

@@ -1,11 +1,13 @@
 .Projects {
-    height: 500px;
+    height: 600px;
     background-color: #716060;
     padding: 50px;
 }
 
 .Select {
     text-align: center;
+    position: relative;
+    bottom: -50px;
 }
 
 .arrow {
