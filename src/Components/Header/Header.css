@@ -22,6 +22,14 @@
     flex: 1;
 }
 
+.Link {
+    text-decoration: none;
+}
+
+.Link:visited{
+    color: white;
+}
+
 .One {
     flex: 0 0 33%;
 }

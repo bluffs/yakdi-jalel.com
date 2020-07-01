@@ -6,7 +6,7 @@ import RightContent from '../../Components/RightContent/RightContent';
 
 const wrapper = () => {
     return (
-        <div className='Wrapper'>
+        <div className='Wrapper' id="intro">
             <LeftContent />
             <RightContent />
         </div>

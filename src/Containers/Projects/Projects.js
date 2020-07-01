@@ -13,11 +13,11 @@ const Projects = () => {
     tab.push({title:"3rd title", image:"Alphabot.png", desc:"The desc of 3rd project"});
 
     return (
-        <div className="Projects">
+        <div className="Projects" id="projets">
             <Project title={tab[num].title} desc={tab[num].desc} image={tab[num].image} />
             <br />
             <div className='Select'>
-                <p><img src={Arrow} alt='Arrow left' class="arrow left" onClick={() => {setNum((num - 1 + tab.length) % tab.length)}} />                      
+                <p><img src={Arrow} alt='Arrow left' class="arrow left" onClick={() => {setNum((num - 1 + tab.length) % tab.length)}} /> 
                 <img src={Arrow} alt='Arrow right' class="arrow" onClick={() => {setNum((num + 1) % tab.length)}} /></p>
             </div>
         </div>
