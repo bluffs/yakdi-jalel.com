@@ -2,6 +2,7 @@ import React from 'react';
 
 import './Header.css';
 import Logo from '../../images/logo.png';
+import CV from '../../JalelYakdiCV.docx';
 
 const header = () => {
     return (
@@ -17,7 +18,7 @@ const header = () => {
                     <a href='#projets' className='Link'>Mes Projets</a>
                 </div>
                 <div className="Three">
-                    <a href='' className='Link'>Mon CV</a>
+                    <a href={CV} className='Link' download="JalelYakdiCV.docx">Mon CV</a>
                 </div>
             </div>
         </div>

@@ -24,6 +24,7 @@
 
 .Link {
     text-decoration: none;
+    color: white;
 }
 
 .Link:visited{
