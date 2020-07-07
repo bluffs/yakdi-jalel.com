@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yakdi-jalel.com/precache-manifest.81874c9df70b64ff3213f0c979f1efc9.js"
+  "/yakdi-jalel.com/precache-manifest.626c7c0eced1b832bc7bf3028ee9db7a.js"
 );
 
 self.addEventListener('message', (event) => {
