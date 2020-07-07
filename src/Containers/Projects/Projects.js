@@ -10,7 +10,6 @@ const Projects = () => {
     const tab = [];
     tab.push({title:"Red Tetris", image:"RedTetris.png", desc:"One Page Web Application. Ce projet permet a l'utilisateur de se connecter sur un salon de jeu pour lancer une partie de Tetris en ligne seul ou a plusieurs. Je l'ai réalisé en utilisant React, Node et Redux"});
     tab.push({title:"AlphaBot", image:"Alphabot.png", desc:"Application qui a pour but d'automatiser des tâches. L'utilisateur peut créer des profils, puis configurer des tâches a faire éxécuter par un bot. Il peut ensuite voir l'état de ses tâches et les modifier, supprimer, ou démarrer à sa guise. Technologies utilisée : React, Node, Electron, Puppeteer"});
-    tab.push({title:"3rd title", image:"Alphabot.png", desc:"The desc of 3rd project"});
 
     return (
         <div className="Projects" id="projets">

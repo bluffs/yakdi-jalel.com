@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/yakdi-jalel.com/static/css/main.e1f4e0f2.chunk.css",
-    "main.js": "/yakdi-jalel.com/static/js/main.3da0e540.chunk.js",
-    "main.js.map": "/yakdi-jalel.com/static/js/main.3da0e540.chunk.js.map",
+    "main.css": "/yakdi-jalel.com/static/css/main.027e2df4.chunk.css",
+    "main.js": "/yakdi-jalel.com/static/js/main.d6712570.chunk.js",
+    "main.js.map": "/yakdi-jalel.com/static/js/main.d6712570.chunk.js.map",
     "runtime-main.js": "/yakdi-jalel.com/static/js/runtime-main.be6f15ab.js",
     "runtime-main.js.map": "/yakdi-jalel.com/static/js/runtime-main.be6f15ab.js.map",
-    "static/js/2.1a5cd923.chunk.js": "/yakdi-jalel.com/static/js/2.1a5cd923.chunk.js",
-    "static/js/2.1a5cd923.chunk.js.map": "/yakdi-jalel.com/static/js/2.1a5cd923.chunk.js.map",
+    "static/js/2.7b20ba01.chunk.js": "/yakdi-jalel.com/static/js/2.7b20ba01.chunk.js",
+    "static/js/2.7b20ba01.chunk.js.map": "/yakdi-jalel.com/static/js/2.7b20ba01.chunk.js.map",
     "index.html": "/yakdi-jalel.com/index.html",
-    "precache-manifest.81874c9df70b64ff3213f0c979f1efc9.js": "/yakdi-jalel.com/precache-manifest.81874c9df70b64ff3213f0c979f1efc9.js",
+    "precache-manifest.626c7c0eced1b832bc7bf3028ee9db7a.js": "/yakdi-jalel.com/precache-manifest.626c7c0eced1b832bc7bf3028ee9db7a.js",
     "service-worker.js": "/yakdi-jalel.com/service-worker.js",
-    "static/css/main.e1f4e0f2.chunk.css.map": "/yakdi-jalel.com/static/css/main.e1f4e0f2.chunk.css.map",
-    "static/js/2.1a5cd923.chunk.js.LICENSE.txt": "/yakdi-jalel.com/static/js/2.1a5cd923.chunk.js.LICENSE.txt",
+    "static/css/main.027e2df4.chunk.css.map": "/yakdi-jalel.com/static/css/main.027e2df4.chunk.css.map",
+    "static/js/2.7b20ba01.chunk.js.LICENSE.txt": "/yakdi-jalel.com/static/js/2.7b20ba01.chunk.js.LICENSE.txt",
     "static/media/Alphabot.png": "/yakdi-jalel.com/static/media/Alphabot.299ab1aa.png",
+    "static/media/JalelYakdiCV.docx": "/yakdi-jalel.com/static/media/JalelYakdiCV.48fbc119.docx",
     "static/media/RedTetris.png": "/yakdi-jalel.com/static/media/RedTetris.39c06054.png",
     "static/media/arrow.png": "/yakdi-jalel.com/static/media/arrow.500d3fc5.png",
     "static/media/bonjour.svg": "/yakdi-jalel.com/static/media/bonjour.a6a307f7.svg",
@@ -22,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.be6f15ab.js",
-    "static/js/2.1a5cd923.chunk.js",
-    "static/css/main.e1f4e0f2.chunk.css",
-    "static/js/main.3da0e540.chunk.js"
+    "static/js/2.7b20ba01.chunk.js",
+    "static/css/main.027e2df4.chunk.css",
+    "static/js/main.d6712570.chunk.js"
   ]
 }
