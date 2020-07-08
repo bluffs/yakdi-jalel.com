@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yakdi-jalel.com/static/css/main.f5ebe243.chunk.css",
+    "main.css": "/yakdi-jalel.com/static/css/main.980af8d6.chunk.css",
     "main.js": "/yakdi-jalel.com/static/js/main.99db084f.chunk.js",
     "main.js.map": "/yakdi-jalel.com/static/js/main.99db084f.chunk.js.map",
     "runtime-main.js": "/yakdi-jalel.com/static/js/runtime-main.be6f15ab.js",
@@ -8,9 +8,9 @@
     "static/js/2.7b20ba01.chunk.js": "/yakdi-jalel.com/static/js/2.7b20ba01.chunk.js",
     "static/js/2.7b20ba01.chunk.js.map": "/yakdi-jalel.com/static/js/2.7b20ba01.chunk.js.map",
     "index.html": "/yakdi-jalel.com/index.html",
-    "precache-manifest.e419248d19ecccd47df4e7dcf718ca15.js": "/yakdi-jalel.com/precache-manifest.e419248d19ecccd47df4e7dcf718ca15.js",
+    "precache-manifest.74d66fb964c66ba781973c72fac8cb65.js": "/yakdi-jalel.com/precache-manifest.74d66fb964c66ba781973c72fac8cb65.js",
     "service-worker.js": "/yakdi-jalel.com/service-worker.js",
-    "static/css/main.f5ebe243.chunk.css.map": "/yakdi-jalel.com/static/css/main.f5ebe243.chunk.css.map",
+    "static/css/main.980af8d6.chunk.css.map": "/yakdi-jalel.com/static/css/main.980af8d6.chunk.css.map",
     "static/js/2.7b20ba01.chunk.js.LICENSE.txt": "/yakdi-jalel.com/static/js/2.7b20ba01.chunk.js.LICENSE.txt",
     "static/media/Alphabot.png": "/yakdi-jalel.com/static/media/Alphabot.299ab1aa.png",
     "static/media/JalelYakdiCV.docx": "/yakdi-jalel.com/static/media/JalelYakdiCV.48fbc119.docx",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.be6f15ab.js",
     "static/js/2.7b20ba01.chunk.js",
-    "static/css/main.f5ebe243.chunk.css",
+    "static/css/main.980af8d6.chunk.css",
     "static/js/main.99db084f.chunk.js"
   ]
 }
