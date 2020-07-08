@@ -21,3 +21,12 @@
     -webkit-transform: rotate(-180deg);
     padding-left: 100px;
 }
+
+@media (max-width: 850px) {
+    .Projects {
+        height: auto;
+    }
+    .Select {
+        bottom: 0px;
+    }
+}
