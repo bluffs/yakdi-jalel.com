@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0945c61961f997702d553fc4073c260b",
+    "revision": "c85c76445fcf39009310aa083c2b9337",
     "url": "/yakdi-jalel.com/index.html"
   },
   {
-    "revision": "4f3b8ad1c9a6f777b846",
-    "url": "/yakdi-jalel.com/static/css/main.027e2df4.chunk.css"
+    "revision": "30acb53d2e816f3b4305",
+    "url": "/yakdi-jalel.com/static/css/main.f5ebe243.chunk.css"
   },
   {
     "revision": "6b4990ba3bfe99ff824e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yakdi-jalel.com/static/js/2.7b20ba01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f3b8ad1c9a6f777b846",
+    "revision": "30acb53d2e816f3b4305",
     "url": "/yakdi-jalel.com/static/js/main.99db084f.chunk.js"
   },
   {
