@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e64142f0f001b1ec3d70842418e1997",
+    "revision": "16109b874d9e0926d9d2bce188a117ce",
     "url": "/yakdi-jalel.com/index.html"
   },
   {
