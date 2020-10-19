@@ -14,6 +14,13 @@ const project = (props) => {
                 <div className='Title' >{props.title}</div>
                 <br />
                 <div className='Desc' >{props.desc}</div>
+                {props.link ? (
+                    <p className="'Desc">
+                        Link : <a href={props.link}>{props.link}</a>
+                    </p>
+                ) : (
+                    null
+                )}
             </div>
         </div>
     )

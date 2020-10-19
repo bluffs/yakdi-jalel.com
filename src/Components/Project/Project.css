@@ -1,52 +1,58 @@
 .Project {
-    display: flex;
-    width: 100%;
-    color: white;
-    text-align: center;
+  display: flex;
+  width: 100%;
+  color: white;
+  text-align: center;
 }
 
 .LeftProject {
-    height: 300px;
-    flex: 0 0 50%;
+  height: 300px;
+  flex: 0 0 50%;
 }
 
 .RightProject {
-    display: block;
-    flex: 1;
-    text-align: center;
+  display: block;
+  flex: 1;
+  text-align: center;
 }
 
 .ImageProject {
-    position: relative;
-    width: 350px;
-    height: 260px;
-    top: 60px;
-    left: -100px;
+  position: relative;
+  width: 350px;
+  height: 260px;
+  top: 60px;
+  left: -100px;
 }
 
 .Circle {
-    position: relative;
-    top: -370px;
-    left: -100px;
-    animation: rotate 20s linear infinite;
+  position: relative;
+  top: -370px;
+  left: -100px;
+  animation: rotate 20s linear infinite;
 }
 
 .Title {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 .Desc {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 @keyframes rotate {
-    0% {transform: rotate(0);}
-    50% {transform: rotate(180deg);}
-    100% {transform: rotate(360deg);}
+  0% {
+    transform: rotate(0);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 @media (max-width: 850px) {
-    .LeftProject {
-        display: none;
-    }
+  .LeftProject {
+    display: none;
+  }
 }
