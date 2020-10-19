@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "092d256b24687873cab9e1d436718940",
+    "revision": "a216211626f79656314bfc8493f6334b",
     "url": "/yakdi-jalel.com/index.html"
   },
   {
-    "revision": "942e3b15d1b033e4dfbc",
-    "url": "/yakdi-jalel.com/static/css/main.0cbf4438.chunk.css"
+    "revision": "a6aca756e90e2a5587e6",
+    "url": "/yakdi-jalel.com/static/css/main.e97e0f32.chunk.css"
   },
   {
     "revision": "6b4990ba3bfe99ff824e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yakdi-jalel.com/static/js/2.7b20ba01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "942e3b15d1b033e4dfbc",
-    "url": "/yakdi-jalel.com/static/js/main.8cdfa215.chunk.js"
+    "revision": "a6aca756e90e2a5587e6",
+    "url": "/yakdi-jalel.com/static/js/main.80789cd6.chunk.js"
   },
   {
     "revision": "1a66c75337f0d44c7132",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yakdi-jalel.com/static/media/Alphabot.299ab1aa.png"
   },
   {
-    "revision": "48fbc1197c52a82447a754acc5feebfb",
-    "url": "/yakdi-jalel.com/static/media/JalelYakdiCV.48fbc119.docx"
+    "revision": "13ba279bf2cc6e4df437c187d0d859db",
+    "url": "/yakdi-jalel.com/static/media/JalelYakdiFullstack.13ba279b.pdf"
   },
   {
     "revision": "39c06054b13fdeeebbe0f9a018bb31dd",
@@ -54,5 +54,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "578d153d26d31034ad0138b1fee8aeeb",
     "url": "/yakdi-jalel.com/static/media/intro.578d153d.jpg"
+  },
+  {
+    "revision": "72d69e5adf90d36588dd8f92a92db1fc",
+    "url": "/yakdi-jalel.com/static/media/tinderClone.72d69e5a.png"
   }
 ]);
