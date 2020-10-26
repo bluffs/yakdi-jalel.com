@@ -12,6 +12,10 @@ const Projects = () => {
                 image:"tinderClone.png",
                 desc:"Application front-end de tinder. Techonologies utilisées : React(hooks), Firebase",
                 link: 'https://tinder-clone-bda98.web.app/'});
+    tab.push({title:"Tiktok Clone",
+                image:"tiktokClone.png",
+                desc:"Application Fullstack de tiktok. Techonologies utilisées : MongoDb, Express, React(hooks), Node, Firebase",
+                link: 'https://tiktok-clone-3a551.web.app/'});
     tab.push({title:"Red Tetris",
                 image:"RedTetris.png",
                 desc:"One Page Web Application. Ce projet permet a l'utilisateur de se connecter sur un salon de jeu pour lancer une partie de Tetris en ligne seul ou a plusieurs. Je l'ai réalisé en utilisant React(hooks), Node et Redux"});
